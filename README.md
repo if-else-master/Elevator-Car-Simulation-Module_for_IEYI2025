@@ -257,9 +257,9 @@ python test.py
 
 ## 開發團隊
 
-此專案為IEYI2025競賽開發，整合了電腦視覺、嵌入式系統和電梯控制邏輯等多項技術。
-感謝 masonzeng702550
-感謝 Jimmymao330
+此專案為IEYI2025競賽開發，整合了電腦視覺、嵌入式系統和電梯控制邏輯等多項技術。<br>
+感謝 masonzeng702550<br>
+感謝 Jimmymao330<br>
 
 聯絡方式：rayc57429@gmail.com
 
